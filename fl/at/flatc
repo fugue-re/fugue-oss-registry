@@ -1,0 +1,1 @@
+{"name":"flatc","vers":"0.2.1+2.0.0","deps":[{"name":"cmake","req":">=0.1.0, <0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build","registry":"https://github.com/rust-lang/crates.io-index","package":null}],"cksum":"f397a67a74fc83a9fa6de0dc76359da741c459e6af1861bb3d531075c986e2da","features":{},"yanked":false,"links":null}
